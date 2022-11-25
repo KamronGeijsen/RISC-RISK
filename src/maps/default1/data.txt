@@ -1,0 +1,221 @@
+format:1.0.0
+
+continent:
+	name:North America
+	reinforcements:5
+	color:ffff00
+	territory:
+		name:Alaska
+		color:ffff00
+	territory:
+		name:Northwest Territory
+		color:fefe00
+	territory:
+		name:Alberta
+		color:fdfd00
+	territory:
+		name:Ontario
+		color:fcfc00
+	territory:
+		name:Western United States
+		color:fbfb00
+	territory:
+		name:Eastern United States
+		color:fafa00
+	territory:
+		name:Central America
+		color:f9f900
+	territory:
+		name:Quebec
+		color:f8f800
+	territory:
+		name:Greenland
+		color:f7f700
+continent:
+	name:South America
+	reinforcements:2
+	color:ff0000
+	territory:
+		name:Venezuela
+		color:ff0000
+	territory:
+		name:Peru
+		color:fe0000
+	territory:
+		name:Brazil
+		color:fd0000
+	territory:
+		name:Argentina
+		color:fc0000
+continent:
+	name:Europe
+	reinforcements:5
+	color:0000ff
+	territory:
+		name:Iceland
+		color:0000ff
+	territory:
+		name:Great Britain
+		color:0000fe
+	territory:
+		name:Scandinavia
+		color:0000fd
+	territory:
+		name:Eastern Europe
+		color:0000fc
+	territory:
+		name:Northern Europe
+		color:0000fb
+	territory:
+		name:Western Europe
+		color:0000fa
+	territory:
+		name:Southern Europe
+		color:0000f9
+continent:
+	name:Africa
+	reinforcements:3
+	territory:
+		name:Egypt
+		color:00ffff
+	territory:
+		name:North Africa
+		color:00fefe
+	territory:
+		name:East Africa
+		color:00fdfd
+	territory:
+		name:Central Africa
+		color:00fcfc
+	territory:
+		name:South Africa
+		color:00fbfb
+	territory:
+		name:Madagascar
+		color:00fafa
+continent:
+	name:Asia
+	reinforcements:7
+	territory:
+		name:Ural
+		color:00ff00
+	territory:
+		name:Siberia
+		color:00fe00
+	territory:
+		name:Yakutsk
+		color:00fd00
+	territory:
+		name:Kamchatka
+		color:00fc00
+	territory:
+		name:Chita
+		color:00fb00
+	territory:
+		name:Mongolia
+		color:00fa00
+	territory:
+		name:Japan
+		color:00f900
+	territory:
+		name:Kazachstan
+		color:00f800
+	territory:
+		name:China
+		color:00f700
+	territory:
+		name:Middle East
+		color:00f600
+	territory:
+		name:India
+		color:00f500
+	territory:
+		name:Siam
+		color:00f400
+continent:
+	name:Oceania
+	reinforcements:2
+	territory:
+		name:Indonesia
+		color:ff00ff
+	territory:
+		name:New Guinea
+		color:fe00fe
+	territory:
+		name:Western Australia
+		color:fd00fd
+	territory:
+		name:Eastern Australia
+		color:fc00fc
+offshore border:
+	name:Northwest Territory
+	name:Greenland
+offshore border:
+	name:Quebec
+	name:Greenland
+offshore border:
+	name:Ontario
+	name:Greenland
+offshore border:
+	name:Alaska
+	name:Kamchatka
+	wrap:true
+offshore border:
+	name:Greenland
+	name:Iceland
+offshore border:
+	name:Iceland
+	name:Scandinavia
+offshore border:
+	name:Iceland
+	name:Great Britain
+offshore border:
+	name:Great Britain
+	name:Scandinavia
+offshore border:
+	name:Great Britain
+	name:Northern Europe
+offshore border:
+	name:Great Britain
+	name:Western Europe
+offshore border:
+	name:Southern Europe
+	name:North Africa
+offshore border:
+	name:Southern Europe
+	name:Egypt
+offshore border:
+	name:Brazil
+	name:North Africa
+offshore border:
+	name:East Africa
+	name:Middle East
+offshore border:
+	name:East Africa
+	name:Madagascar
+offshore border:
+	name:South Africa
+	name:Madagascar
+offshore border:
+	name:Japan
+	name:Kamchatka
+offshore border:
+	name:Japan
+	name:Mongolia
+offshore border:
+	name:Siam
+	name:Indonesia
+offshore border:
+	name:Indonesia
+	name:New Guinea
+offshore border:
+	name:Indonesia
+	name:Western Australia
+offshore border:
+	name:Western Australia
+	name:New Guinea
+offshore border:
+	name:Eastern Australia
+	name:New Guinea
+
+a
